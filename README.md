@@ -1,4 +1,9 @@
-CAMPO
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 
 
 A vida no campo pode nos despertar para diferentes sentimentos, emoções e reflexões sobre a vida. Ela nos dá uma excelente oportunidade de olhar para dentro.
